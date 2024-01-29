@@ -6,10 +6,11 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-        <li><a href="#about-the-project">About The Project</a>
-        <li><a href="#built-with">Built With</a></li>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li>About The Project</a>
+        <li>Built With</a></li>
+        <li>Installation</a></li>
+        <li>Gameplay and Gallery</a></li>
+        <li>Contact</a></li>
 </details>
 <!-- ABOUT THE PROJECT -->
     
@@ -26,7 +27,40 @@ Java
 To install and work with the project, clone the repo
    sh
    git clone https://github.com/SirKairon/Sage.git
-   
+
+<!-- GAMEPLAY AND GALLERY -->
+### Gameplay
+
+Watch Sage's gameplay on YouTube here: https://youtu.be/RjHjooF15Kw
+
+
+### Gallery
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank">
+      <img src="https://github.com/SirKairon/Sage/blob/main/images/Screenshot%202024-01-29%20at%2010.40.05%20AM.png" alt="In-game" height="500" weight="500">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_forest.jpg">
+      <img src="https://github.com/SirKairon/Sage/blob/main/images/Screenshot%202024-01-29%20at%2010.38.29%20AM.png" alt="Win" height="500" weight="500">
+    </a>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="img_lights.jpg">
+      <img src="https://github.com/SirKairon/Sage/blob/main/images/Screenshot%202024-01-29%20at%2010.38.54%20AM.png" alt="Lose" height="500" weight="500">
+    </a>
+  </div>
+</div>
+
 <!-- CONTACT -->
 ## Contact
 
