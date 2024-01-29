@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <h1 align="center">Sage - Greenfoot Game based on Java.</h1>
   <img src="https://github.com/SirKairon/Sage/blob/main/images/Screenshot%202024-01-29%20at%2010.38.36%20AM.png">
-  <h3 align="center">Sage - Greenfoot Game based on Java.</h3>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
